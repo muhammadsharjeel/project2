@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5eb998fe-d7d3-4b74-a0ac-6f883f96cd53" name="Default" comment="Just checking commit command">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="5eb998fe-d7d3-4b74-a0ac-6f883f96cd53" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -113,7 +112,7 @@
       <option name="presentableId" value="Default" />
       <updated>1520829734747</updated>
       <workItem from="1520829739809" duration="1087000" />
-      <workItem from="1520831483887" duration="1112000" />
+      <workItem from="1520831483887" duration="1129000" />
     </task>
     <task id="LOCAL-00001" summary="Just checking commit command">
       <created>1520831764292</created>
@@ -136,11 +135,18 @@
       <option name="project" value="LOCAL" />
       <updated>1520832139704</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Just checking commit command">
+      <created>1520832623764</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1520832623764</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2199000" />
+    <option name="totallyTimeSpent" value="2216000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -208,9 +214,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Just checking commit command" />
     <MESSAGE value="adding js" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding js" />
+    <MESSAGE value="Just checking commit command" />
+    <option name="LAST_COMMIT_MESSAGE" value="Just checking commit command" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
